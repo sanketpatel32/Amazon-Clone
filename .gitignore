@@ -130,3 +130,4 @@ dist
 .pnp.*
 
 amazon-clone-frontend/node_modules
+amazon-clone-frontend/src/firebase.js
